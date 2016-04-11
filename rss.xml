@@ -4,8 +4,15 @@
         <description><![CDATA[auximity.com]]></description>
         <link>https://thegrid.ai/auximity-com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Apr 2016 05:16:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2016 05:18:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/auximity-com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>We Are Auximiti</p>]]></description>
+            <link>https://thegrid.ai/auximity-com/53bb434c-1650-4442-834e-bc485a24c24b/index.html</link>
+            <guid isPermaLink="false">53bb434c-1650-4442-834e-bc485a24c24b</guid>
+            <pubDate>Mon, 11 Apr 2016 05:18:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bluetooth LE]]></title>
             <description><![CDATA[<article><h1>Bluetooth LE</h1><p>Our Platform</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/58807128a90310bdad4a1b11887943caa78bdddc.png"></article>]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/auximity-com/0f39a71b-6473-46c3-a311-e78fbded475c/index.html</link>
             <guid isPermaLink="false">0f39a71b-6473-46c3-a311-e78fbded475c</guid>
             <pubDate>Mon, 11 Apr 2016 05:11:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>We Are Auximiti</p>]]></description>
-            <link>https://thegrid.ai/auximity-com/53bb434c-1650-4442-834e-bc485a24c24b/index.html</link>
-            <guid isPermaLink="false">53bb434c-1650-4442-834e-bc485a24c24b</guid>
-            <pubDate>Mon, 11 Apr 2016 05:06:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
