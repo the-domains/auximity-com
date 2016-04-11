@@ -4,15 +4,8 @@
         <description><![CDATA[auximity.com]]></description>
         <link>https://thegrid.ai/auximity-com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Apr 2016 05:22:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2016 05:22:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/auximity-com/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>We Are Auximiti</p>]]></description>
-            <link>https://thegrid.ai/auximity-com/53bb434c-1650-4442-834e-bc485a24c24b/index.html</link>
-            <guid isPermaLink="false">53bb434c-1650-4442-834e-bc485a24c24b</guid>
-            <pubDate>Mon, 11 Apr 2016 05:22:19 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Our Platform]]></title>
             <description><![CDATA[<article><h1>Our Platform</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/58807128a90310bdad4a1b11887943caa78bdddc.png"></article>]]></description>
@@ -26,6 +19,13 @@
             <link>https://thegrid.ai/auximity-com/services/index.html</link>
             <guid isPermaLink="false">3c922b3a-1731-4f01-9a6e-9741419269e7</guid>
             <pubDate>Mon, 11 Apr 2016 05:22:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>We Are Auximiti</p>]]></description>
+            <link>https://thegrid.ai/auximity-com/53bb434c-1650-4442-834e-bc485a24c24b/index.html</link>
+            <guid isPermaLink="false">53bb434c-1650-4442-834e-bc485a24c24b</guid>
+            <pubDate>Mon, 11 Apr 2016 05:18:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
