@@ -4,8 +4,15 @@
         <description><![CDATA[auximity.com]]></description>
         <link>https://thegrid.ai/auximity-com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Apr 2016 05:24:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2016 05:24:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/auximity-com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Services]]></title>
+            <description><![CDATA[<article><h1>Services</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8dd81a62e5b29833f48aa63fc4edc9d00b0309fa.png"></article>]]></description>
+            <link>https://thegrid.ai/auximity-com/services/index.html</link>
+            <guid isPermaLink="false">3c922b3a-1731-4f01-9a6e-9741419269e7</guid>
+            <pubDate>Mon, 11 Apr 2016 05:24:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Join the Revolution]]></title>
             <description><![CDATA[<h1>Join the Revolution</h1>]]></description>
@@ -19,13 +26,6 @@
             <link>www.bluetooth.com</link>
             <guid isPermaLink="false">6079ab20-d0a6-43fa-8abf-b910a9c6a24b</guid>
             <pubDate>Mon, 11 Apr 2016 05:22:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Services]]></title>
-            <description><![CDATA[<article><h1>Services</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8dd81a62e5b29833f48aa63fc4edc9d00b0309fa.png"></article>]]></description>
-            <link>https://thegrid.ai/auximity-com/services/index.html</link>
-            <guid isPermaLink="false">3c922b3a-1731-4f01-9a6e-9741419269e7</guid>
-            <pubDate>Mon, 11 Apr 2016 05:22:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
