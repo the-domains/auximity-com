@@ -4,8 +4,15 @@
         <description><![CDATA[auximity.com]]></description>
         <link>https://thegrid.ai/auximity-com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Apr 2016 05:23:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2016 05:24:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/auximity-com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Join the Revolution]]></title>
+            <description><![CDATA[<h1>Join the Revolution</h1>]]></description>
+            <link>http://blogs.wsj.com/cio/2015/06/02/internet-of-things-market-to-reach-1-7-trillion-by-2020-idc/</link>
+            <guid isPermaLink="false">0f39a71b-6473-46c3-a311-e78fbded475c</guid>
+            <pubDate>Mon, 11 Apr 2016 05:24:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Our Platform]]></title>
             <description><![CDATA[<article><h1>Our Platform</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/58807128a90310bdad4a1b11887943caa78bdddc.png"></article>]]></description>
@@ -26,13 +33,6 @@
             <link>https://thegrid.ai/auximity-com/53bb434c-1650-4442-834e-bc485a24c24b/index.html</link>
             <guid isPermaLink="false">53bb434c-1650-4442-834e-bc485a24c24b</guid>
             <pubDate>Mon, 11 Apr 2016 05:21:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ef05ae1b-ecaf-4103-b24f-c56c6059b84c.png" alt="The Wall Street Journal" title="">]]></description>
-            <link>https://thegrid.ai/auximity-com/0f39a71b-6473-46c3-a311-e78fbded475c/index.html</link>
-            <guid isPermaLink="false">0f39a71b-6473-46c3-a311-e78fbded475c</guid>
-            <pubDate>Mon, 11 Apr 2016 05:11:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
