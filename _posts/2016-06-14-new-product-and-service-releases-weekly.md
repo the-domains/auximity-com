@@ -1,20 +1,20 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: New product and service releases weekly!
-datePublished: '2016-06-14T06:55:55.791Z'
-dateModified: '2016-06-14T06:55:55.509Z'
-authors: []
-publisher: null
+datePublished: '2016-06-14T07:01:30.274Z'
+dateModified: '2016-06-14T07:01:11.623Z'
 title: ''
 author: []
-starred: false
 sourcePath: _posts/2016-06-14-new-product-and-service-releases-weekly.md
-url: new-product-and-service-releases-weekly/index.html
-_type: Article
+authors: []
+publisher: null
+starred: true
+_type: Blurb
 
 ---
 New product and service releases weekly!
