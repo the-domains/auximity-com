@@ -1,20 +1,20 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: We're formed and ready to do business Arizona!
-datePublished: '2016-06-14T06:52:20.290Z'
-dateModified: '2016-06-14T06:52:20.015Z'
-authors: []
-publisher: null
+datePublished: '2016-06-14T07:04:44.473Z'
+dateModified: '2016-06-14T07:02:04.072Z'
 title: ''
 author: []
-starred: false
 sourcePath: _posts/2016-06-14-were-formed-and-ready-to-do-business-arizona.md
-url: were-formed-and-ready-to-do-business-arizona/index.html
-_type: Article
+authors: []
+publisher: null
+starred: false
+_type: Blurb
 
 ---
 We're formed and ready to do business Arizona!
