@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Smart City Meets Connectivity '
-datePublished: '2016-06-14T06:58:33.720Z'
-dateModified: '2016-06-14T06:58:19.578Z'
+datePublished: '2016-06-14T07:00:43.898Z'
+dateModified: '2016-06-14T06:58:36.260Z'
 title: ''
 author: []
+sourcePath: _posts/2016-06-14-smart-city-meets-connectivity.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-14-smart-city-meets-connectivity.md
 url: smart-city-meets-connectivity/index.html
 _type: Article
 
