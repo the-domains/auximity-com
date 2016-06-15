@@ -4,7 +4,7 @@
         <description><![CDATA[auximity.com]]></description>
         <link>https://thegrid.ai/auximity-com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 14 Jun 2016 07:04:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2016 05:40:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/auximity-com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -15,24 +15,17 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>We Are Auximiti</p>]]></description>
+            <link>https://thegrid.ai/auximity-com/53bb434c-1650-4442-834e-bc485a24c24b/index.html</link>
+            <guid isPermaLink="false">53bb434c-1650-4442-834e-bc485a24c24b</guid>
+            <pubDate>Wed, 15 Jun 2016 05:40:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dbcf2837-4f57-47f6-a83a-bf32dcb8ec49.jpg">]]></description>
             <link>https://thegrid.ai/auximity-com/smart-city-meets-connectivity/index.html</link>
             <guid isPermaLink="false">375d29f5-ffcd-40ba-b01d-bc962e90d6a7</guid>
             <pubDate>Tue, 14 Jun 2016 07:03:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>We Are Auximiti</p>]]></description>
-            <link>https://thegrid.ai/auximity-com/53bb434c-1650-4442-834e-bc485a24c24b/index.html</link>
-            <guid isPermaLink="false">53bb434c-1650-4442-834e-bc485a24c24b</guid>
-            <pubDate>Tue, 14 Jun 2016 07:00:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>We're formed and ready to do business Arizona!</p>]]></description>
-            <link>https://thegrid.ai/auximity-com/were-formed-and-ready-to-do-business-arizona/index.html</link>
-            <guid isPermaLink="false">dfbec093-6fe3-44e2-8f80-b3e67c2203e7</guid>
-            <pubDate>Tue, 14 Jun 2016 06:52:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
